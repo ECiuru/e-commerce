@@ -12,6 +12,7 @@ export default function Header()
                     <Link to="/" className="text-lg font-semibold text-gray-800 hover:text-gray-600 transition-colors flex items-center gap-1"><FiHome className="w-5 h-5" /> Acasă</Link>
                 </div>
                 <h1 className="text-2xl md:text-3xl font-bold text-gray-900 text-center md:text-left">Cosmetică.md - Parfumerie de elită</h1>
+                <h1>Salut</h1>
                 
            
                 <div className="flex items-center gap-6">
